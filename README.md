@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/mYhd1NHQkHmZLiqN7M/giphy.gif?cid=ecf05e47kh3dh0uxdfj1spss9isapc13dcipqeiaz97q69pw&rid=giphy.gif&ct=g" align="right" width="450" height="250">
+
 
 ### Hi there, I'm Aykut. :blush:
 
