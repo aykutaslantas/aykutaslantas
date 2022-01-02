@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Aykut. :blush:
+### Hi there, I'm Aykut.
 
 ## Web Developer | High School Student
 
