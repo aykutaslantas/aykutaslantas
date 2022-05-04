@@ -1,7 +1,5 @@
 
 
-### Hi there, I'm Aykut.
-
 ## Web Developer | High School Student
 
 <font color="orange">Just Coding</font>
