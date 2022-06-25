@@ -1,9 +1,6 @@
 
 
-## Web Developer | High School Student
-
-<font color="orange">Just Coding</font>
-
+## Web Developer 
 
 ### Reach out me
 
