@@ -1,6 +1,7 @@
 
 
 ## Web Developer 
+I’m currently learning Go.
 
 ### Reach out me
 
@@ -9,7 +10,7 @@
 <br>
 <br>
 
-### Tech I use
+### Tech I used
 <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="25" height="25" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/php/php.png" width="25" height="25" height="25" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/javascript/javascript.png" width="25" height="25" align="left">
