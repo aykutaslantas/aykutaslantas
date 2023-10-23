@@ -1,7 +1,7 @@
 
 
 ## Web Developer 
-🚀 I’m currently learning Go.
+🚀 I’m currently learning C/C++
 
 ### Reach out me
 
