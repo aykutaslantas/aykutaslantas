@@ -1,7 +1,6 @@
 
 
 ## Web Developer 
-🚀 I’m currently learning C/C++
 
 ### Reach out me
 
